@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "tTitle",
+    "owner": "my_own",
+    "description": ""
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "d1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
